@@ -11,6 +11,7 @@ const {
 }  = require('graphql');
 
 // Project Type
+//testing
 const ProjectType = new GraphQLObjectType({
     name: 'Project',
     fields: () => ({
